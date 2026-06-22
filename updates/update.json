@@ -1,14 +1,14 @@
 {
   "appName": "WC Live",
   "packageName": "com.wclive.tv",
-  "versionCode": 8,
-  "versionName": "1.6.5",
+  "versionCode": 9,
+  "versionName": "1.6.6",
   "minimumSupportedVersion": 1,
   "forceUpdate": false,
   "updateAvailable": false,
   "releaseDate": "2026-06-23",
   "apkSizeMB": 7.0,
-  "apkUrl": "https://github.com/Asif-Ahsan-Sunny/wc-live/blob/main/updates/wc-live-v1.6.5.apk",
+  "apkUrl": "https://github.com/Asif-Ahsan-Sunny/wc-live/blob/main/updates/WC%20Live%201.6.6.apk",
   "releaseNotes": [
     "Removed Reload Defaults from sidebar",
     "Added channel online status indicators",
