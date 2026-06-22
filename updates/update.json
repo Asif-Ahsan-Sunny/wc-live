@@ -1,19 +1,18 @@
-
 {
-"appName": "WC Live TV",
-"packageName": "com.yourcompany.wclivetv",
-"versionCode": 12,
-"versionName": "1.2.0",
-"minimumSupportedVersion": 10,
-"forceUpdate": false,
-"updateAvailable": true,
-"releaseDate": "2026-06-21",
-"apkSizeMB": 6.98,
-"apkUrl": "https://github.com/Asif-Ahsan-Sunny/wc-live/blob/main/updates/wc-live-v1.2.0.apk",
-"releaseNotes": [
-"Improved channel loading speed",
-"Fixed buffering issues",
-"Updated M3U sources",
-"UI performance improvements"
-]
+  "appName": "WC Live",
+  "packageName": "com.wclive.tv",
+  "versionCode": 8,
+  "versionName": "1.6.5",
+  "minimumSupportedVersion": 1,
+  "forceUpdate": false,
+  "updateAvailable": false,
+  "releaseDate": "2026-06-23",
+  "apkSizeMB": 7.0,
+  "apkUrl": "https://github.com/Asif-Ahsan-Sunny/wc-live/blob/main/updates/wc-live-v1.6.5.apk",
+  "releaseNotes": [
+    "Removed Reload Defaults from sidebar",
+    "Added channel online status indicators",
+    "In-app update system",
+    "Performance and UI improvements"
+  ]
 }
